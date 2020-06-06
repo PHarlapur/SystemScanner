@@ -18,7 +18,7 @@ namespace WindowsFormsApp1
         public frmLogin()
         {
             InitializeComponent();
-            ds.ReadXml("D:\\data.xml");
+            ds.ReadXml(txtFilePath.Text);
             //dgXMLView.DataSource = ds;
         }
 
@@ -71,6 +71,7 @@ namespace WindowsFormsApp1
 
         private void btnScanSystem_Click(object sender, EventArgs e)
         {
+            pbar.Value = 0;
             foreach (DataRow dr in ds.Tables[0].Rows)
             {
                 using (var client = new SshClient(dr["ip"].ToString(), dr["username"].ToString(), dr["password"].ToString()))
@@ -124,6 +125,12 @@ namespace WindowsFormsApp1
             foundRows = ds.Tables[0].Select(" ip Like '"+ip+"%'");
             if(foundRows.Length >0)
             lblResults.Text = foundRows[0]["Results"].ToString();
+        }
+
+        private void btnViewXml_Click(object sender, EventArgs e)
+        {
+            XMLViewer newWindow = new XMLViewer(txtFilePath.Text);
+            newWindow.Show();
         }
     }
 }

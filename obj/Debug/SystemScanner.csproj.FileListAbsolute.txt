@@ -19,3 +19,4 @@ D:\code\SystemScanner\bin\Debug\SystemScanner.pdb
 D:\code\SystemScanner\obj\Debug\SystemScanner.Properties.Resources.resources
 D:\code\SystemScanner\obj\Debug\SystemScanner.exe
 D:\code\SystemScanner\obj\Debug\SystemScanner.pdb
+D:\code\SystemScanner\obj\Debug\SystemScanner.csprojAssemblyReference.cache

@@ -12,19 +12,23 @@ namespace WindowsFormsApp1
 {
     public partial class XMLViewer : Form
     {
+        DataSet ds = new DataSet();
+
         public XMLViewer()
         {
             InitializeComponent();
         }
 
-        private void XMLViewer_Load(object sender, EventArgs e)
+        public XMLViewer(string path) : this()
         {
-            DataSet ds = new DataSet();
-            ds.ReadXml("D:\\data.xml");
-            //dgXMLView.DataSource = ds;
-
+            ds.ReadXml(path);
+            
             dgXMLView.DataSource = ds.Tables[0];
             dgXMLView.AutoGenerateColumns = true;
+        }
+
+        private void XMLViewer_Load(object sender, EventArgs e)
+        {
 
         }
     }
