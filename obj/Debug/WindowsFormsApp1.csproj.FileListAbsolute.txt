@@ -1,0 +1,14 @@
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.xml
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XMLViewer.resources

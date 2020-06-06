@@ -1,0 +1,8 @@
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SystemScanner.csprojAssemblyReference.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XMLViewer.resources
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SystemScanner.csproj.GenerateResource.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SystemScanner.csproj.CoreCompileInputs.cache
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
