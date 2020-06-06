@@ -6,3 +6,16 @@ D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SystemScanner.csproj.Generat
 D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SystemScanner.csproj.CoreCompileInputs.cache
 D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\code\SystemScanner\bin\Debug\Renci.SshNet.dll
+D:\code\SystemScanner\bin\Debug\Renci.SshNet.xml
+D:\code\SystemScanner\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\code\SystemScanner\obj\Debug\WindowsFormsApp1.XMLViewer.resources
+D:\code\SystemScanner\obj\Debug\SystemScanner.csproj.GenerateResource.cache
+D:\code\SystemScanner\obj\Debug\SystemScanner.csproj.CoreCompileInputs.cache
+D:\code\SystemScanner\obj\Debug\SystemScanner.csproj.CopyComplete
+D:\code\SystemScanner\bin\Debug\SystemScanner.exe.config
+D:\code\SystemScanner\bin\Debug\SystemScanner.exe
+D:\code\SystemScanner\bin\Debug\SystemScanner.pdb
+D:\code\SystemScanner\obj\Debug\SystemScanner.Properties.Resources.resources
+D:\code\SystemScanner\obj\Debug\SystemScanner.exe
+D:\code\SystemScanner\obj\Debug\SystemScanner.pdb
