@@ -4,6 +4,7 @@ System scanner is a simple tool to scan automatically number of UNIX/LINUX syste
 
 Refer the sample data.xml file for format of the input data.
 
+
 <systems>
 	<unix>
 		<ip>104.211.200.221</ip>
